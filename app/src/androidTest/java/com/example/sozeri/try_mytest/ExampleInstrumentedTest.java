@@ -23,4 +23,8 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.sozeri.try_mytest", appContext.getPackageName());
     }
+    @Test
+    public void addition_isCorrect3() throws Exception {
+        assertEquals(5, 4 + 3);
+    }
 }
