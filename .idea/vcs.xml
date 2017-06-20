@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="C:\Users\sozeri\AndroidStudioProjects\Try_MyTest\Try_MyTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Try_MyTest" vcs="" />
   </component>
 </project>
